@@ -34,3 +34,4 @@ Frontend Developer passionate about creating engaging web experiences. Currently
 - Avid video game enthusiast
 - Beach lover
 - Football player in my free time
+- Building Projects
