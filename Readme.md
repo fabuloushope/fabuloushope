@@ -19,9 +19,9 @@ Frontend Developer passionate about creating engaging web experiences. Currently
 
 ## Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edzordzinam44&label=Profile%20views&color=0e75b6&style=flat" alt="edzordzinam44" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabuloushope&label=Profile%20views&color=0e75b6&style=flat" alt="fabuloushope" /> </p>
 
-![GitHub Streak counter](https://github-readme-streak-stats-smoky-eta.vercel.app?user=edzordzinam44&theme=javascript-dark&border_radius=9.9)
+![GitHub Streak counter](https://github-readme-streak-stats-smoky-eta.vercel.app?user=fabuloushope&theme=javascript-dark&border_radius=9.9)
 
 ## Connect With Me
 
