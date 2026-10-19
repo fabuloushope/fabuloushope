@@ -35,3 +35,9 @@ Frontend Developer passionate about creating engaging web experiences. Currently
 - Beach lover
 - Football player in my free time
 - Building Projects
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=%F0%9F%93%9D+Researcher;%F0%9F%92%BB+Front-end+Developer;%F0%9F%9A%80+Student;%F0%9F%8C%8F+Aspiring+Tech+Expert" alt="Typing SVG" style="padding-left: 2rem;" />
+  </a>
+</p>
